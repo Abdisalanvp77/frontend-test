@@ -1,0 +1,31 @@
+.footer_container {
+    background-color: #000066;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding: 2% 5% 2% 5%;
+    position: relative;
+    bottom: 0 !important;
+    left: 0;
+    right: 0;
+    font-size: 100%;
+}
+.footer_container p {
+    color: #ffffff;
+}
+.footer_container p a {
+    color: #FF6600;
+}
+.fbicon {
+    float: right;
+    padding: 10px;
+}
+.twicon {
+    float: right;
+    padding: 10px;
+}
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
